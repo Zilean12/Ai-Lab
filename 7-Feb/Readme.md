@@ -32,7 +32,7 @@ Here's a high-level overview of the BFS algorithm:
 
 1. Clone the repository.
 2. Ensure you have Python installed.
-3. Open your preferred Python environment and execute the provided `bfs_graph.py` file.
+3. Open your preferred Python environment and execute the provided `BFS.py` file.
 4. Follow the prompts to input the adjacency matrix, initial node, and goal node.
 5. View the output to observe the nodes present in the BFS queue, the total number of nodes in the queue at each stage, and the optimal path from the initial to the goal nodes.
 
